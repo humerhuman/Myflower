@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">采薇</string>
+
+    <string name="first_guid_text_up">微博，微信配图</string>
+    <string name="first_guid_text_down">让社交分享更精彩!</string>
+    <string name="second_guid_text_up">时尚图库素材</string>
+    <string name="second_guid_text_down">设计师灵感的源泉</string>
+    <string name="third_guid_text_up">一张图片，一段故事</string>
+    <string name="third_guid_text_down">一场人生，一段旅程</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_GetlocalImg">上传照片</string>
+    <string name="action_Cammer">拍照</string>
+    <string name="action_GetWebImg">网络采集</string>
+
+    <string name="btn_welome">开始体验吧</string>
+    <string name="welcome_to_flower">welcome to flower</string>
+    <string name="search">搜索</string>
+    <string name="add">更多</string>
+    <string name="更多">action_more</string>
+    <string name="action_mor">更多</string>
+    <string name="username">低头微笑</string>
+    <string name="tv_message">我的消息</string>
+    <string name="tv_focuse">我的关注</string>
+    <string name="food">美食食谱</string>
+    <string name="item_picture">图片分类</string>
+    <string name="item_picture_film">摄影</string>
+    <string name="item_image_travel">旅行</string>
+    <string name="item_image_fashion">潮流时尚</string>
+    <string name="item_image_live">家居生活</string>
+    <string name="item_image_dresser">美容美妆</string>
+    <string name="item_image_design">艺术设计</string>
+    <string name="item_image_paint">插画/绘画</string>
+    <string name="check_password">两次输入不一致，请重新输入</string>
+    <string name="false_text">请输密码入</string>
+
+
+</resources>

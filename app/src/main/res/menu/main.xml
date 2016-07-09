@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/searchview"
+        android:actionViewClass="android.support.v7.widget.SearchView"
+        android:showAsAction="always|collapseActionView"
+        android:icon="@mipmap/ic_menu_search_holo_light"
+        android:title="@string/search" />
+    <item
+        android:id="@+id/action_getlocalimg"
+        android:icon="@drawable/ic_menu_gallery"
+        android:title="@string/action_GetlocalImg"
+         />
+    <item
+        android:id="@+id/action_cammer"
+        android:icon="@drawable/ic_menu_camera"
+        android:title="@string/action_Cammer"
+         />
+    <item
+        android:id="@+id/action_getWebImg"
+        android:icon="@drawable/ic_menu_slideshow"
+        android:title="@string/action_GetWebImg"
+        />
+</menu>

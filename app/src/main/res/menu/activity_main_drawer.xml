@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/item_image_index"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="首页" />
+        <item
+            android:id="@+id/item_image_focues"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="热门" />
+        <item
+            android:id="@+id/item_image_article"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="文章" />
+        <item
+            android:id="@+id/item_image_food"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/food" />
+    </group>
+
+
+    <item android:title="@string/item_picture">
+        <menu>
+            <group android:checkableBehavior="all">
+            <item
+                android:id="@+id/item_image_camer"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/item_picture_film" />
+            <item
+                android:id="@+id/item_image_paint"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/item_image_paint" />
+            <item
+                android:id="@+id/item_image_design"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/item_image_design" />
+            <item
+                android:id="@+id/item_image_travel"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/item_image_travel" />
+            <item
+                android:id="@+id/item_image_fashion"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/item_image_fashion" />
+            <item
+                android:id="@+id/item_image_live"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/item_image_live" />
+            <item
+                android:id="@+id/item_image_dresser"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/item_image_dresser" />
+            </group>
+
+        </menu>
+    </item>
+
+
+</menu>
